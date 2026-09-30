@@ -7,3 +7,4 @@ Documentação:
 - [AWS CloudShell](https://docs.aws.amazon.com/cloudshell/)
 - [Amazon Textract](https://docs.aws.amazon.com/pt_br/textract/)
 
+Para acessar a AWS Cloud Shell você loga na sua conta aws e clica no ícone na barra superior direita
