@@ -11,7 +11,7 @@ Primeiramente, acessamos a nossa conta e abrimos o Amazon Textract para verifica
 
 No Amazon Textract o melhor formato foi texto simples que conseguiu extrair as linhas corretamente. Veja o print abaixo:
 
-[Acessando o terminal na AWS](assets/AcessandoCloudShell.png)
+![Acessando o terminal na AWS](assets/AcessandoCloudShell.png)
 
 
 
