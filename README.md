@@ -11,9 +11,10 @@ Primeiramente, acessamos a nossa conta e abrimos o Amazon Textract para verifica
 
 No Amazon Textract o melhor formato foi texto simples que conseguiu extrair as linhas corretamente. Veja o print abaixo:
 
-![Acessando o terminal na AWS](assets/AcessandoCloudShell.png)
-
+![Lista Escolar extraída no Textextract](assets/Textract-Lista-escolar.png)
 
 
 Para acessar a AWS Cloud Shell você loga na sua conta aws e clica no ícone na barra superior direita
+
+![Acessando o terminal na AWS](assets/AcessandoCloudShell.png)
  
