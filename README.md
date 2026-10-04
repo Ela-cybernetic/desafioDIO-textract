@@ -32,11 +32,11 @@ Para verificar se os arquivos subiram no terminal digite ls e mostrará o que es
 Feito isso, você terá que instalar o boto3 para conseguir fazer a conexão do Textract com seu código Python. Insira no terminal
 pip install boto3
 
-![Resultado do código ](assets/Resultado-codigo.png)
+![Instalando boto3 ](assets/Instalando-boto3.png)
 
 Pronto! Agora está tudo preparado para testar seu código. Você chama o seu código python no terminal com: 
 python3 nomedoarquivodocodigo.py . 
 No meu caso o arquivo chama-se extrair-texto.py, então fica: python3 extrair-texto.py
 E o resultado mostra o texto extraído de cada linha da imagem usando o Textract e o código Python.
-![Instalando boto3 ](assets/Instalando-boto3.png)
 
+![Resultado do código ](assets/Resultado-codigo.png)
