@@ -18,3 +18,25 @@ Para acessar a AWS Cloud Shell você loga na sua conta aws e clica no ícone na 
 
 ![Acessando o terminal na AWS](assets/AcessandoCloudShell.png)
  
+Dentro do terminal você acessa Ações ( no canto superior direito) e subir no terminal a imagem da lista escolar e o código Python.
+
+No caso do código você pode criar o arquivo dentro do próprio terminal , mas preferi criá-lo na IDE para facilitar a identação e depois subi ela no terminal.
+
+![Subindo imagem e o codigo no terminal](assets/Subindo-imagem-codigo-CloudShell.png)
+
+A explicação de cada linha do código se encontra dentro dele em: [Extrair-Texto.py](extrair-texto.py)
+Para verificar se os arquivos subiram no terminal digite ls e mostrará o que está no terminal
+
+![Verificando se os arquivos subiram no terminal](assets/Verificando-se-os-arquivos-subiram.png)
+
+Feito isso, você terá que instalar o boto3 para conseguir fazer a conexão do Textract com seu código Python. Insira no terminal
+pip install boto3
+
+![Instalando boto3 ](assets/Instalando-boto3.png)
+
+Pronto! Agora está tudo preparado para testar seu código. Você chama o seu código python no terminal com: 
+python3 nomedoarquivodocodigo.py . 
+No meu caso o arquivo chama-se extrair-texto.py, então fica: python3 extrair-texto.py
+E o resultado mostra o texto extraído de cada linha da imagem usando o Textract e o código Python.
+![Instalando boto3 ](assets/Instalando-boto3.png)
+
